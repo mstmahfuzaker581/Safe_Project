@@ -1,0 +1,33 @@
+.b {
+    background: url("image/ima.jpg") ;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+}
+
+.navbar-brand img {
+    margin-right: 10px;
+}
+
+.hero-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.i{
+    background-color: rgb(232, 226, 217);
+}
+.o{
+    color: #ac850f;
+}
+.menu-list {
+    list-style-type: none;
+}
+.menu-list li a {
+    color: white; 
+}
+.footer{
+    background-color: #121212;
+}
+
+
